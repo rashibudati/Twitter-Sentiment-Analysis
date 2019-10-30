@@ -5,6 +5,8 @@ CNN-LSTM model designed to analyse twitter statements.
 
 2. Download the GloVe from[I'm an inline-style link ] (https://nlp.stanford.edu/projects/glove/)
 
-Note: The code was designed for it's use in Google Colab. The path has to be set according to your file name. The dataset and GloVe should be present in the same folder as all the other files.
+Note: The code is based on the paper (Find the PDF file in the repository)which is designed to know the sentiment of twitter statements. The code is modified with different parameters. I did not find much diffference in both the cases. I tried the CNN-LSTM model. You can also try for LSTM-CNN model and see if there is any difference in the accuracy. 
+
+PS: The path has to be set according to your file name. The dataset and GloVe should be present in the same folder as all the other files.
 
 
